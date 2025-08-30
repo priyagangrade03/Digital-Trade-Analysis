@@ -19,3 +19,15 @@ Technologies Used
 - Numpy: A library for numerical operations.
 - Matplotlib: Used for creating static, animated, and interactive visualizations.
 - Seaborn: A high-level interface for drawing attractive and informative statistical graphics.
+
+Business Objectives-
+- Analyze Trade Performance Over Time
+
+- Identify Top Contributing Countries/Regions
+
+- Understand Economic Indicators & Units of Trade
+
+- Outlier & Distribution Analysis
+
+- Trend & Pattern Discovery for Policy and Business
+
